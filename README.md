@@ -1,14 +1,12 @@
-# codewars
-My codewars solutions
-
-Go to: https://codewars-activity-chart.glitch.me/Trickylime
-For a visual reprentation of contributions to codewars solutions.
-
 # Index of katas by its category/discipline
 
-These are the 21 code challenges I have completed:
+These are the 25 code challenges I have completed:
 ## Fundamentals
 
+- [Count of positives / sum of negatives](./Katas/count-of-positives-slash-sum-of-negatives)
+- [Grasshopper - Grade book](./Katas/grasshopper-grade-book)
+- [Reversed sequence ](./Katas/reversed-sequence)
+- [Abbreviate a Two Word Name](./Katas/abbreviate-a-two-word-name)
 - [Who likes it?](./Katas/who-likes-it)
 - [Convert a Number to a String!](./Katas/convert-a-number-to-a-string)
 - [Array.diff](./Katas/array-dot-diff)
