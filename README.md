@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 26 code challenges I have completed:
+These are the 27 code challenges I have completed:
 ## Fundamentals
 
 - [Sentence Smash](./Katas/sentence-smash)
@@ -27,6 +27,7 @@ These are the 26 code challenges I have completed:
 - [Convert a Boolean to a String](./Katas/convert-a-boolean-to-a-string)
 ## Algorithms
 
+- [Adding Big Numbers](./Katas/adding-big-numbers)
 - [int32 to IPv4](./Katas/int32-to-ipv4)
 - [RGB To Hex Conversion](./Katas/rgb-to-hex-conversion)
 - [Human Readable Time](./Katas/human-readable-time)
