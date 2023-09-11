@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 27 code challenges I have completed:
+These are the 28 code challenges I have completed:
 ## Fundamentals
 
+- [Detect Pangram](./Katas/detect-pangram)
 - [Sentence Smash](./Katas/sentence-smash)
 - [Count of positives / sum of negatives](./Katas/count-of-positives-slash-sum-of-negatives)
 - [Grasshopper - Grade book](./Katas/grasshopper-grade-book)
