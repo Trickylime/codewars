@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 28 code challenges I have completed:
+These are the 30 code challenges I have completed:
 ## Fundamentals
 
+- [Regex validate PIN code](./Katas/regex-validate-pin-code)
+- [Count by X](./Katas/count-by-x)
 - [Detect Pangram](./Katas/detect-pangram)
 - [Sentence Smash](./Katas/sentence-smash)
 - [Count of positives / sum of negatives](./Katas/count-of-positives-slash-sum-of-negatives)
