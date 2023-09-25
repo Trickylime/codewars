@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 31 code challenges I have completed:
+These are the 32 code challenges I have completed:
 ## Fundamentals
 
+- [Two to One](./Katas/two-to-one)
 - [Isograms](./Katas/isograms)
 - [Regex validate PIN code](./Katas/regex-validate-pin-code)
 - [Count by X](./Katas/count-by-x)
