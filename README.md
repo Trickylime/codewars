@@ -1,8 +1,11 @@
 # Index of katas by its category/discipline
 
-These are the 33 code challenges I have completed:
+These are the 37 code challenges I have completed:
 ## Fundamentals
 
+- [List Filtering](./Katas/list-filtering)
+- [Disemvowel Trolls](./Katas/disemvowel-trolls)
+- [Square(n) Sum](./Katas/square-n-sum)
 - [Break camelCase](./Katas/break-camelcase)
 - [Two to One](./Katas/two-to-one)
 - [Isograms](./Katas/isograms)
@@ -33,6 +36,7 @@ These are the 33 code challenges I have completed:
 - [Convert a Boolean to a String](./Katas/convert-a-boolean-to-a-string)
 ## Algorithms
 
+- [Codewars style ranking system](./Katas/codewars-style-ranking-system)
 - [Adding Big Numbers](./Katas/adding-big-numbers)
 - [int32 to IPv4](./Katas/int32-to-ipv4)
 - [RGB To Hex Conversion](./Katas/rgb-to-hex-conversion)
