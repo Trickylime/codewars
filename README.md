@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 38 code challenges I have completed:
+These are the 39 code challenges I have completed:
 ## Fundamentals
 
+- [Highest and Lowest](./Katas/highest-and-lowest)
 - [Rock Paper Scissors!](./Katas/rock-paper-scissors)
 - [List Filtering](./Katas/list-filtering)
 - [Disemvowel Trolls](./Katas/disemvowel-trolls)
