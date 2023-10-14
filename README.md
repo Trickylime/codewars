@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 39 code challenges I have completed:
+These are the 40 code challenges I have completed:
 ## Fundamentals
 
 - [Highest and Lowest](./Katas/highest-and-lowest)
@@ -38,6 +38,7 @@ These are the 39 code challenges I have completed:
 - [Convert a Boolean to a String](./Katas/convert-a-boolean-to-a-string)
 ## Algorithms
 
+- [Sum of Intervals](./Katas/sum-of-intervals)
 - [Codewars style ranking system](./Katas/codewars-style-ranking-system)
 - [Adding Big Numbers](./Katas/adding-big-numbers)
 - [int32 to IPv4](./Katas/int32-to-ipv4)
