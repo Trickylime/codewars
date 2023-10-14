@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 41 code challenges I have completed:
+These are the 42 code challenges I have completed:
 ## Fundamentals
 
+- [You're a square!](./Katas/youre-a-square)
 - [String ends with?](./Katas/string-ends-with)
 - [Highest and Lowest](./Katas/highest-and-lowest)
 - [Rock Paper Scissors!](./Katas/rock-paper-scissors)
