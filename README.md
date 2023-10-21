@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 42 code challenges I have completed:
+These are the 43 code challenges I have completed:
 ## Fundamentals
 
 - [You're a square!](./Katas/youre-a-square)
@@ -40,6 +40,7 @@ These are the 42 code challenges I have completed:
 - [Convert a Boolean to a String](./Katas/convert-a-boolean-to-a-string)
 ## Algorithms
 
+- [Snail](./Katas/snail)
 - [Sum of Intervals](./Katas/sum-of-intervals)
 - [Codewars style ranking system](./Katas/codewars-style-ranking-system)
 - [Adding Big Numbers](./Katas/adding-big-numbers)
