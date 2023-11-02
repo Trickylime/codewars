@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 44 code challenges I have completed:
+These are the 45 code challenges I have completed:
 ## Fundamentals
 
+- [Square Every Digit](./Katas/square-every-digit)
 - [Convert a String to a Number!](./Katas/convert-a-string-to-a-number)
 - [You're a square!](./Katas/youre-a-square)
 - [String ends with?](./Katas/string-ends-with)
