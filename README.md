@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 46 code challenges I have completed:
+These are the 47 code challenges I have completed:
 ## Fundamentals
 
+- [Beginner Series #3 Sum of Numbers](./Katas/beginner-series-number-3-sum-of-numbers)
 - [Returning Strings](./Katas/returning-strings)
 - [Square Every Digit](./Katas/square-every-digit)
 - [Convert a String to a Number!](./Katas/convert-a-string-to-a-number)
