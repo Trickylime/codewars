@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 47 code challenges I have completed:
+These are the 48 code challenges I have completed:
 ## Fundamentals
 
+- [DNA to RNA Conversion](./Katas/dna-to-rna-conversion)
 - [Beginner Series #3 Sum of Numbers](./Katas/beginner-series-number-3-sum-of-numbers)
 - [Returning Strings](./Katas/returning-strings)
 - [Square Every Digit](./Katas/square-every-digit)
