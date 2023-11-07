@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 50 code challenges I have completed:
+These are the 51 code challenges I have completed:
 ## Fundamentals
 
 - [Ones and Zeros](./Katas/ones-and-zeros)
@@ -47,6 +47,7 @@ These are the 50 code challenges I have completed:
 - [Convert a Boolean to a String](./Katas/convert-a-boolean-to-a-string)
 ## Algorithms
 
+- [All Balanced Parentheses](./Katas/all-balanced-parentheses)
 - [Snail](./Katas/snail)
 - [Sum of Intervals](./Katas/sum-of-intervals)
 - [Codewars style ranking system](./Katas/codewars-style-ranking-system)
