@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 55 code challenges I have completed:
+These are the 56 code challenges I have completed:
 ## Fundamentals
 
+- [Are they the "same"?](./Katas/are-they-the-same)
 - [Complementary DNA](./Katas/complementary-dna)
 - [Descending Order](./Katas/descending-order)
 - [Persistent Bugger.](./Katas/persistent-bugger)
