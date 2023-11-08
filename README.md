@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 52 code challenges I have completed:
+These are the 53 code challenges I have completed:
 ## Fundamentals
 
 - [Persistent Bugger.](./Katas/persistent-bugger)
@@ -48,6 +48,7 @@ These are the 52 code challenges I have completed:
 - [Convert a Boolean to a String](./Katas/convert-a-boolean-to-a-string)
 ## Algorithms
 
+- [Pick peaks](./Katas/pick-peaks)
 - [All Balanced Parentheses](./Katas/all-balanced-parentheses)
 - [Snail](./Katas/snail)
 - [Sum of Intervals](./Katas/sum-of-intervals)
