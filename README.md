@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 53 code challenges I have completed:
+These are the 55 code challenges I have completed:
 ## Fundamentals
 
+- [Complementary DNA](./Katas/complementary-dna)
+- [Descending Order](./Katas/descending-order)
 - [Persistent Bugger.](./Katas/persistent-bugger)
 - [Ones and Zeros](./Katas/ones-and-zeros)
 - [Convert number to reversed array of digits](./Katas/convert-number-to-reversed-array-of-digits)
