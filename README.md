@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 51 code challenges I have completed:
+These are the 52 code challenges I have completed:
 ## Fundamentals
 
+- [Persistent Bugger.](./Katas/persistent-bugger)
 - [Ones and Zeros](./Katas/ones-and-zeros)
 - [Convert number to reversed array of digits](./Katas/convert-number-to-reversed-array-of-digits)
 - [DNA to RNA Conversion](./Katas/dna-to-rna-conversion)
