@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 57 code challenges I have completed:
+These are the 58 code challenges I have completed:
 ## Fundamentals
 
+- [A Needle in the Haystack](./Katas/a-needle-in-the-haystack)
 - [Your order,  please](./Katas/your-order-please)
 - [Are they the "same"?](./Katas/are-they-the-same)
 - [Complementary DNA](./Katas/complementary-dna)
