@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 58 code challenges I have completed:
+These are the 59 code challenges I have completed:
 ## Fundamentals
 
+- [Grasshopper - Personalized Message](./Katas/grasshopper-personalized-message)
 - [A Needle in the Haystack](./Katas/a-needle-in-the-haystack)
 - [Your order,  please](./Katas/your-order-please)
 - [Are they the "same"?](./Katas/are-they-the-same)
