@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 60 code challenges I have completed:
+These are the 61 code challenges I have completed:
 ## Fundamentals
 
+- [Beginner Series #1 School Paperwork](./Katas/beginner-series-number-1-school-paperwork)
 - [Fake Binary](./Katas/fake-binary)
 - [Grasshopper - Personalized Message](./Katas/grasshopper-personalized-message)
 - [A Needle in the Haystack](./Katas/a-needle-in-the-haystack)
