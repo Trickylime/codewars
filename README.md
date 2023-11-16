@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 63 code challenges I have completed:
+These are the 64 code challenges I have completed:
 ## Fundamentals
 
+- [Remove exclamation marks](./Katas/remove-exclamation-marks)
 - [Transportation on vacation ](./Katas/transportation-on-vacation)
 - [The highest profit wins!](./Katas/the-highest-profit-wins)
 - [Beginner Series #1 School Paperwork](./Katas/beginner-series-number-1-school-paperwork)
