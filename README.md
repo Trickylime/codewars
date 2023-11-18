@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 65 code challenges I have completed:
+These are the 66 code challenges I have completed:
 ## Fundamentals
 
+- [Get the Middle Character](./Katas/get-the-middle-character)
 - [Is this a triangle?](./Katas/is-this-a-triangle)
 - [Remove exclamation marks](./Katas/remove-exclamation-marks)
 - [Transportation on vacation ](./Katas/transportation-on-vacation)
