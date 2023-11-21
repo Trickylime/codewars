@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 68 code challenges I have completed:
+These are the 69 code challenges I have completed:
 ## Fundamentals
 
+- [Reversed Strings](./Katas/reversed-strings)
 - [Quarter of the year](./Katas/quarter-of-the-year)
 - [Return Negative](./Katas/return-negative)
 - [Get the Middle Character](./Katas/get-the-middle-character)
