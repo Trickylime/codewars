@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 70 code challenges I have completed:
+These are the 71 code challenges I have completed:
 ## Fundamentals
 
+- [Third Angle of a Triangle](./Katas/third-angle-of-a-triangle)
 - [Mumbling](./Katas/mumbling)
 - [Reversed Strings](./Katas/reversed-strings)
 - [Quarter of the year](./Katas/quarter-of-the-year)
