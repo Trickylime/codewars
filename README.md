@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 71 code challenges I have completed:
+These are the 72 code challenges I have completed:
 ## Fundamentals
 
+- [Keep Hydrated!](./Katas/keep-hydrated-1)
 - [Third Angle of a Triangle](./Katas/third-angle-of-a-triangle)
 - [Mumbling](./Katas/mumbling)
 - [Reversed Strings](./Katas/reversed-strings)
