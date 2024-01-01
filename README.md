@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 74 code challenges I have completed:
+These are the 75 code challenges I have completed:
 ## Fundamentals
 
+- [Grasshopper - Debug sayHello](./Katas/grasshopper-debug-sayhello)
 - [Parse nice int from char problem](./Katas/parse-nice-int-from-char-problem)
 - [Build Tower](./Katas/build-tower)
 - [Keep Hydrated!](./Katas/keep-hydrated-1)
