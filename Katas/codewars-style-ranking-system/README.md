@@ -4,7 +4,7 @@
 
 - **Completed languages:** java
 
-- **Tags:** Algorithms
+- **Tags:** Algorithms, Object-oriented Programming
 
 - **Rank:** 4 kyu
 

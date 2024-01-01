@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 73 code challenges I have completed:
+These are the 74 code challenges I have completed:
 ## Fundamentals
 
+- [Parse nice int from char problem](./Katas/parse-nice-int-from-char-problem)
 - [Build Tower](./Katas/build-tower)
 - [Keep Hydrated!](./Katas/keep-hydrated-1)
 - [Third Angle of a Triangle](./Katas/third-angle-of-a-triangle)
