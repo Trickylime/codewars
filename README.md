@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 76 code challenges I have completed:
+These are the 77 code challenges I have completed:
 ## Fundamentals
 
+- [Sum without highest and lowest number](./Katas/sum-without-highest-and-lowest-number)
 - [Removing Elements](./Katas/removing-elements)
 - [Grasshopper - Debug sayHello](./Katas/grasshopper-debug-sayhello)
 - [Parse nice int from char problem](./Katas/parse-nice-int-from-char-problem)
