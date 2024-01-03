@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 77 code challenges I have completed:
+These are the 78 code challenges I have completed:
 ## Fundamentals
 
+- [Correct the mistakes of the character recognition software](./Katas/correct-the-mistakes-of-the-character-recognition-software)
 - [Sum without highest and lowest number](./Katas/sum-without-highest-and-lowest-number)
 - [Removing Elements](./Katas/removing-elements)
 - [Grasshopper - Debug sayHello](./Katas/grasshopper-debug-sayhello)
