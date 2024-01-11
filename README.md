@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 79 code challenges I have completed:
+These are the 80 code challenges I have completed:
 ## Fundamentals
 
+- [Count the divisors of a number](./Katas/count-the-divisors-of-a-number)
 - [Highest Scoring Word](./Katas/highest-scoring-word)
 - [Correct the mistakes of the character recognition software](./Katas/correct-the-mistakes-of-the-character-recognition-software)
 - [Sum without highest and lowest number](./Katas/sum-without-highest-and-lowest-number)
