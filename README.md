@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 80 code challenges I have completed:
+These are the 81 code challenges I have completed:
 ## Fundamentals
 
+- [Anagram Detection](./Katas/anagram-detection)
 - [Count the divisors of a number](./Katas/count-the-divisors-of-a-number)
 - [Highest Scoring Word](./Katas/highest-scoring-word)
 - [Correct the mistakes of the character recognition software](./Katas/correct-the-mistakes-of-the-character-recognition-software)
