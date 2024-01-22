@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 90 code challenges I have completed:
+These are the 91 code challenges I have completed:
 ## Fundamentals
 
+- [Odd or Even?](./Katas/odd-or-even)
 - [Simple Fun #176: Reverse Letter](./Katas/simple-fun-number-176-reverse-letter)
 - [Lario and Muigi Pipe Problem](./Katas/lario-and-muigi-pipe-problem)
 - [Sum of odd numbers](./Katas/sum-of-odd-numbers)
