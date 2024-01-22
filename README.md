@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 86 code challenges I have completed:
+These are the 88 code challenges I have completed:
 ## Fundamentals
 
+- [Sum of odd numbers](./Katas/sum-of-odd-numbers)
+- [The Feast of Many Beasts](./Katas/the-feast-of-many-beasts)
 - [Cat years, Dog years](./Katas/cat-years-dog-years)
 - [Counting Duplicates](./Katas/counting-duplicates)
 - [Form The Minimum](./Katas/form-the-minimum)
