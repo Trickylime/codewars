@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 85 code challenges I have completed:
+These are the 86 code challenges I have completed:
 ## Fundamentals
 
+- [Cat years, Dog years](./Katas/cat-years-dog-years)
 - [Counting Duplicates](./Katas/counting-duplicates)
 - [Form The Minimum](./Katas/form-the-minimum)
 - [Multiplication table for number](./Katas/multiplication-table-for-number)
