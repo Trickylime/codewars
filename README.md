@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 88 code challenges I have completed:
+These are the 89 code challenges I have completed:
 ## Fundamentals
 
+- [Lario and Muigi Pipe Problem](./Katas/lario-and-muigi-pipe-problem)
 - [Sum of odd numbers](./Katas/sum-of-odd-numbers)
 - [The Feast of Many Beasts](./Katas/the-feast-of-many-beasts)
 - [Cat years, Dog years](./Katas/cat-years-dog-years)
