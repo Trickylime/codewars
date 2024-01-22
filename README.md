@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 82 code challenges I have completed:
+These are the 83 code challenges I have completed:
 ## Fundamentals
 
+- [Multiplication table for number](./Katas/multiplication-table-for-number)
 - [Sum of positive](./Katas/sum-of-positive)
 - [Anagram Detection](./Katas/anagram-detection)
 - [Count the divisors of a number](./Katas/count-the-divisors-of-a-number)
