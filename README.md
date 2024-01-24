@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 92 code challenges I have completed:
+These are the 93 code challenges I have completed:
 ## Fundamentals
 
+- [Duplicate Encoder](./Katas/duplicate-encoder)
 - [Shortest Word](./Katas/shortest-word)
 - [Odd or Even?](./Katas/odd-or-even)
 - [Simple Fun #176: Reverse Letter](./Katas/simple-fun-number-176-reverse-letter)
