@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 93 code challenges I have completed:
+These are the 94 code challenges I have completed:
 ## Fundamentals
 
+- [Find the unique number](./Katas/find-the-unique-number-1)
 - [Duplicate Encoder](./Katas/duplicate-encoder)
 - [Shortest Word](./Katas/shortest-word)
 - [Odd or Even?](./Katas/odd-or-even)
