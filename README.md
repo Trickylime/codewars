@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 95 code challenges I have completed:
+These are the 96 code challenges I have completed:
 ## Fundamentals
 
+- [Bouncing Balls](./Katas/bouncing-balls)
 - [Small enough? - Beginner](./Katas/small-enough-beginner)
 - [Find the unique number](./Katas/find-the-unique-number-1)
 - [Duplicate Encoder](./Katas/duplicate-encoder)
