@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 97 code challenges I have completed:
+These are the 98 code challenges I have completed:
 ## Fundamentals
 
+- [Two Sum](./Katas/two-sum)
 - [Connect Four](./Katas/connect-four-1)
 - [Bouncing Balls](./Katas/bouncing-balls)
 - [Small enough? - Beginner](./Katas/small-enough-beginner)
