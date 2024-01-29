@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 98 code challenges I have completed:
+These are the 99 code challenges I have completed:
 ## Fundamentals
 
+- [What is between?](./Katas/what-is-between)
 - [Two Sum](./Katas/two-sum)
 - [Connect Four](./Katas/connect-four-1)
 - [Bouncing Balls](./Katas/bouncing-balls)
