@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 100 code challenges I have completed:
+These are the 101 code challenges I have completed:
 ## Fundamentals
 
+- [Make a function that does arithmetic!](./Katas/make-a-function-that-does-arithmetic)
 - [Double Char](./Katas/double-char)
 - [What is between?](./Katas/what-is-between)
 - [Two Sum](./Katas/two-sum)
