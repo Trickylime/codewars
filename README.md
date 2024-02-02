@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 102 code challenges I have completed:
+These are the 103 code challenges I have completed:
 ## Fundamentals
 
+- [Thinkful - Logic Drills: Traffic light](./Katas/thinkful-logic-drills-traffic-light)
 - [Testing 1-2-3](./Katas/testing-1-2-3)
 - [Make a function that does arithmetic!](./Katas/make-a-function-that-does-arithmetic)
 - [Double Char](./Katas/double-char)
