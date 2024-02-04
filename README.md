@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 106 code challenges I have completed:
+These are the 107 code challenges I have completed:
 ## Fundamentals
 
 - [Directions Reduction](./Katas/directions-reduction)
@@ -100,6 +100,7 @@ These are the 106 code challenges I have completed:
 - [Convert a Boolean to a String](./Katas/convert-a-boolean-to-a-string)
 ## Algorithms
 
+- [Find The Parity Outlier](./Katas/find-the-parity-outlier)
 - [Bit Counting](./Katas/bit-counting)
 - [Pick peaks](./Katas/pick-peaks)
 - [All Balanced Parentheses](./Katas/all-balanced-parentheses)
