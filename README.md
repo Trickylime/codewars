@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 104 code challenges I have completed:
+These are the 105 code challenges I have completed:
 ## Fundamentals
 
+- [Directions Reduction](./Katas/directions-reduction)
 - [Difference of Volumes of Cuboids](./Katas/difference-of-volumes-of-cuboids)
 - [Thinkful - Logic Drills: Traffic light](./Katas/thinkful-logic-drills-traffic-light)
 - [Testing 1-2-3](./Katas/testing-1-2-3)
