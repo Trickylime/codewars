@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 108 code challenges I have completed:
+These are the 109 code challenges I have completed:
 ## Fundamentals
 
+- [Opposites Attract](./Katas/opposites-attract)
 - [How old will I be in 2099?](./Katas/how-old-will-i-be-in-2099)
 - [Directions Reduction](./Katas/directions-reduction)
 - [Difference of Volumes of Cuboids](./Katas/difference-of-volumes-of-cuboids)
