@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 107 code challenges I have completed:
+These are the 108 code challenges I have completed:
 ## Fundamentals
 
+- [How old will I be in 2099?](./Katas/how-old-will-i-be-in-2099)
 - [Directions Reduction](./Katas/directions-reduction)
 - [Difference of Volumes of Cuboids](./Katas/difference-of-volumes-of-cuboids)
 - [Thinkful - Logic Drills: Traffic light](./Katas/thinkful-logic-drills-traffic-light)
