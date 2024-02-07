@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 111 code challenges I have completed:
+These are the 113 code challenges I have completed:
 ## Fundamentals
 
+- [Sum of a sequence](./Katas/sum-of-a-sequence)
+- [Grasshopper - Basic Function Fixer](./Katas/grasshopper-basic-function-fixer)
 - [Find the next perfect square!](./Katas/find-the-next-perfect-square)
 - [Century From Year](./Katas/century-from-year)
 - [Opposites Attract](./Katas/opposites-attract)
