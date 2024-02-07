@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 114 code challenges I have completed:
+These are the 115 code challenges I have completed:
 ## Fundamentals
 
+- [Even or Odd](./Katas/even-or-odd)
 - [Multiplication table](./Katas/multiplication-table)
 - [Sum of a sequence](./Katas/sum-of-a-sequence)
 - [Grasshopper - Basic Function Fixer](./Katas/grasshopper-basic-function-fixer)
