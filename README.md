@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 116 code challenges I have completed:
+These are the 117 code challenges I have completed:
 ## Fundamentals
 
+- [Fix string case](./Katas/fix-string-case)
 - [Two fighters, one winner.](./Katas/two-fighters-one-winner)
 - [Even or Odd](./Katas/even-or-odd)
 - [Multiplication table](./Katas/multiplication-table)
