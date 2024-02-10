@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 118 code challenges I have completed:
+These are the 119 code challenges I have completed:
 ## Fundamentals
 
+- [Welcome to the City](./Katas/welcome-to-the-city)
 - [You only need one - Beginner](./Katas/you-only-need-one-beginner)
 - [Fix string case](./Katas/fix-string-case)
 - [Two fighters, one winner.](./Katas/two-fighters-one-winner)
