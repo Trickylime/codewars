@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 120 code challenges I have completed:
+These are the 121 code challenges I have completed:
 ## Fundamentals
 
+- [Sum of angles](./Katas/sum-of-angles)
 - [Determine offspring sex based on genes XX and XY chromosomes](./Katas/determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes)
 - [Welcome to the City](./Katas/welcome-to-the-city)
 - [You only need one - Beginner](./Katas/you-only-need-one-beginner)
