@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 123 code challenges I have completed:
+These are the 124 code challenges I have completed:
 ## Fundamentals
 
+- [Find the position!](./Katas/find-the-position)
 - [The Supermarket Queue](./Katas/the-supermarket-queue)
 - [Beginner - Lost Without a Map](./Katas/beginner-lost-without-a-map)
 - [Sum of angles](./Katas/sum-of-angles)
