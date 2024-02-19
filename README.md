@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 125 code challenges I have completed:
+These are the 126 code challenges I have completed:
 ## Fundamentals
 
+- [Multiple of  index](./Katas/multiple-of-index)
 - [The Wide-Mouthed frog! ](./Katas/the-wide-mouthed-frog)
 - [Find the position!](./Katas/find-the-position)
 - [The Supermarket Queue](./Katas/the-supermarket-queue)
