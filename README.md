@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 127 code challenges I have completed:
+These are the 128 code challenges I have completed:
 ## Fundamentals
 
+- [Powers of 2](./Katas/powers-of-2)
 - [Consecutive strings](./Katas/consecutive-strings)
 - [Multiple of  index](./Katas/multiple-of-index)
 - [The Wide-Mouthed frog! ](./Katas/the-wide-mouthed-frog)
