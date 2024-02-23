@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 129 code challenges I have completed:
+These are the 130 code challenges I have completed:
 ## Fundamentals
 
+- [Binary Addition](./Katas/binary-addition)
 - [Alternate capitalization](./Katas/alternate-capitalization)
 - [Powers of 2](./Katas/powers-of-2)
 - [Consecutive strings](./Katas/consecutive-strings)
