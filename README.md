@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 131 code challenges I have completed:
+These are the 132 code challenges I have completed:
 ## Fundamentals
 
+- [String repeat](./Katas/string-repeat)
 - [Maximum Length Difference](./Katas/maximum-length-difference)
 - [Binary Addition](./Katas/binary-addition)
 - [Alternate capitalization](./Katas/alternate-capitalization)
