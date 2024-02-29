@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 133 code challenges I have completed:
+These are the 134 code challenges I have completed:
 ## Fundamentals
 
+- [Remove the minimum](./Katas/remove-the-minimum)
 - [Plural](./Katas/plural)
 - [String repeat](./Katas/string-repeat)
 - [Maximum Length Difference](./Katas/maximum-length-difference)
