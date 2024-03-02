@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 134 code challenges I have completed:
+These are the 135 code challenges I have completed:
 ## Fundamentals
 
+- [Vowel Count](./Katas/vowel-count)
 - [Remove the minimum](./Katas/remove-the-minimum)
 - [Plural](./Katas/plural)
 - [String repeat](./Katas/string-repeat)
