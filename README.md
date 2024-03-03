@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 135 code challenges I have completed:
+These are the 136 code challenges I have completed:
 ## Fundamentals
 
+- [Tortoise racing](./Katas/tortoise-racing)
 - [Vowel Count](./Katas/vowel-count)
 - [Remove the minimum](./Katas/remove-the-minimum)
 - [Plural](./Katas/plural)
