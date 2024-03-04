@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 136 code challenges I have completed:
+These are the 137 code challenges I have completed:
 ## Fundamentals
 
+- [Simple Encryption #1 - Alternating Split](./Katas/simple-encryption-number-1-alternating-split)
 - [Tortoise racing](./Katas/tortoise-racing)
 - [Vowel Count](./Katas/vowel-count)
 - [Remove the minimum](./Katas/remove-the-minimum)
