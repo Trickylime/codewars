@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 139 code challenges I have completed:
+These are the 140 code challenges I have completed:
 ## Fundamentals
 
+- [Encrypt this!](./Katas/encrypt-this)
 - [If you can't sleep, just count sheep!!](./Katas/if-you-cant-sleep-just-count-sheep)
 - [Mexican Wave](./Katas/mexican-wave)
 - [Simple Encryption #1 - Alternating Split](./Katas/simple-encryption-number-1-alternating-split)
