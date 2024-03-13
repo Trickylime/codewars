@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 142 code challenges I have completed:
+These are the 143 code challenges I have completed:
 ## Fundamentals
 
+- [Maximum  subarray sum](./Katas/maximum-subarray-sum)
 - [Equal Sides Of An Array](./Katas/equal-sides-of-an-array)
 - [Switch it Up!](./Katas/switch-it-up)
 - [Encrypt this!](./Katas/encrypt-this)
