@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 144 code challenges I have completed:
+These are the 145 code challenges I have completed:
 ## Fundamentals
 
+- [Take a Ten Minutes Walk](./Katas/take-a-ten-minutes-walk)
 - [Greet Me](./Katas/greet-me)
 - [Maximum  subarray sum](./Katas/maximum-subarray-sum)
 - [Equal Sides Of An Array](./Katas/equal-sides-of-an-array)
