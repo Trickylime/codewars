@@ -4,7 +4,7 @@
 
 - **Completed languages:** java
 
-- **Tags:** Fundamentals
+- **Tags:** Fundamentals, Mathematics
 
 - **Rank:** 6 kyu
 
