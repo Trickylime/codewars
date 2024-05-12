@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 147 code challenges I have completed:
+These are the 148 code challenges I have completed:
 ## Fundamentals
 
+- [Kata Example Twist](./Katas/kata-example-twist)
 - [Sum of numbers from 0 to N](./Katas/sum-of-numbers-from-0-to-n)
 - [Power of two](./Katas/power-of-two)
 - [Take a Ten Minutes Walk](./Katas/take-a-ten-minutes-walk)
