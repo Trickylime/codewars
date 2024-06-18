@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 152 code challenges I have completed:
+These are the 153 code challenges I have completed:
 ## Fundamentals
 
+- [Duck Duck Goose](./Katas/duck-duck-goose)
 - [Remove First and Last Character](./Katas/remove-first-and-last-character)
 - [Number of Decimal Digits](./Katas/number-of-decimal-digits)
 - [Number of People in the Bus](./Katas/number-of-people-in-the-bus)
