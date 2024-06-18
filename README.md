@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 154 code challenges I have completed:
+These are the 156 code challenges I have completed:
 ## Fundamentals
 
+- [Tip Calculator](./Katas/tip-calculator)
+- [Consonant value](./Katas/consonant-value)
 - [Sum of Cubes](./Katas/sum-of-cubes)
 - [Duck Duck Goose](./Katas/duck-duck-goose)
 - [Remove First and Last Character](./Katas/remove-first-and-last-character)
