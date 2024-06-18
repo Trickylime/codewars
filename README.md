@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 150 code challenges I have completed:
+These are the 151 code challenges I have completed:
 ## Fundamentals
 
+- [Number of Decimal Digits](./Katas/number-of-decimal-digits)
 - [Number of People in the Bus](./Katas/number-of-people-in-the-bus)
 - [get character from ASCII Value](./Katas/get-character-from-ascii-value)
 - [Kata Example Twist](./Katas/kata-example-twist)
