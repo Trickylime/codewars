@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 157 code challenges I have completed:
+These are the 159 code challenges I have completed:
 ## Fundamentals
 
+- [Invert values](./Katas/invert-values)
+- [Switcheroo](./Katas/switcheroo)
 - [How many stairs will Suzuki climb in 20 years?](./Katas/how-many-stairs-will-suzuki-climb-in-20-years)
 - [Tip Calculator](./Katas/tip-calculator)
 - [Consonant value](./Katas/consonant-value)
